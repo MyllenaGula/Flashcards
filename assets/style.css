@@ -1,3 +1,8 @@
 body {
-background-color: bisque;
+background-color: rgb(69, 180, 50);
+}
+
+footer {
+background-color: black;
+color: white;
 }
