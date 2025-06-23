@@ -5,4 +5,7 @@ background-color: rgb(69, 180, 50);
 footer {
 background-color: black;
 color: white;
+bottom:0;
+position:fixed;
+width:100%;
 }
