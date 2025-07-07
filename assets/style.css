@@ -11,6 +11,7 @@ font-family: Bai Jamjuree;
 
 #container {
 display:flex ;
+margin-top: 0.5rem;
 }
 
 .cartao {
