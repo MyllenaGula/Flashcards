@@ -49,6 +49,10 @@ color: var(--card-back-color);
 font-weight: 700;
 }
 
+.cartao:hover .cartao__conteudo {
+transform: rotateY(180deg);
+}
+
 footer {
 background-color: rgb(216, 153, 153);
 color: rgb(97, 94, 94);
