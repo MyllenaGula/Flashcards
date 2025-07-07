@@ -5,9 +5,8 @@
 }
 
 body {
-background-color: bisque;
-font-family: Bai Jamjuree;
 background: url('bg-desktop.webp');
+font-family: Bai Jamjuree;
 }
 
 #container {
@@ -63,6 +62,9 @@ backface-visibility: hidden;
 
 .cartao__conteudo__resposta {
 transform: rotateY(180deg);
+position: absolute;
+height: 100%;
+width: 100%;
 }
 
 footer {
