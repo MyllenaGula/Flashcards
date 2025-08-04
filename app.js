@@ -21,4 +21,3 @@ function viraCartao() {
     respostaEstaVisivel = !respostaEstaVisivel
     cartao.classList.toggle('active', respostaEstaVisivel)
 }
-
