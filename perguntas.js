@@ -1,7 +1,7 @@
 criaCartao(
     'Inteligência Artificial',
     'O que é Inteligência Artificial?',
-    'IA é a capacidade de uma máquina de exibir inteligência, como aprender, resolver problemas e tomar decisões, geralmente simulando habilidades humanas. '
+    'IA é a capacidade de uma máquina de exibir inteligência, como aprender e resolver problemas, simulando habilidades humanas. '
 )
 
 criaCartao(
