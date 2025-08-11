@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Inteligência Artificial',
     'Onde a IA está sendo usada atualmente??',
-    'A IA já está presente em diversas áreas, como assistentes virtuais (Siri, Alexa), carros autônomos, sistemas de recomendação, análise de dados, diagnóstico médico e detecção de fraudes. '
+    'A IA já está presente em diversas áreas, como assistentes virtuais, carros autônomos, análise de dados, e detecção de fraudes. '
 )
 
 criaCartao(
