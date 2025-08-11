@@ -15,8 +15,3 @@ criaCartao(
     'A IA pode ser tendenciosa?',
     'Sim, os algoritmos de IA podem refletir os vieses presentes nos dados com os quais foram treinados, o que pode levar a resultados injustos ou discriminatórios. '
 )
-criaCartao(
-    'Inteligência Artificial'
-    'A IA pode superar a inteligência humana?',
-    'A possibilidade de a IA alcançar e superar a inteligência humana é um tópico de pesquisa e debate em andamento, com visões divergentes sobre o futuro da IA. '
-)
