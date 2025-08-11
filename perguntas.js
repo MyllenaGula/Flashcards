@@ -17,6 +17,6 @@ criaCartao(
 )
 criaCartao(
     'Inteligência Artificial'
-    'A IA pode superar a inteligência humana?'
+    'A IA pode superar a inteligência humana?',
     'A possibilidade de a IA alcançar e superar a inteligência humana é um tópico de pesquisa e debate em andamento, com visões divergentes sobre o futuro da IA. '
 )
