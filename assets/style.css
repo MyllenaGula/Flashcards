@@ -59,7 +59,7 @@ font-weight: 500;
 
 .cartao__conteudo__resposta p{
 color: var(--card-back-color);
-font-weight: 500;
+font-weight: 300;
 }
 
 .cartao.active .cartao__conteudo {
